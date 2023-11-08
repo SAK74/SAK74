@@ -10,6 +10,7 @@
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&random=false&width=600&lines=Every+day+discovers+something+interesting...;Let's+start+by+AWS!+)](https://git.io/typing-svg)
 
 ## My Skill Set
 
