@@ -4,7 +4,7 @@
 
 - 🤩 passionate about coding
 
-- 📖 around two years non-commercial experience with JS/TS/React.js
+- 📖 around three years experience with JS/TS/React.js mainly
 
 - 📭 currently open to work
 
