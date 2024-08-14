@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&height=60&lines=Every+day+discovers+something+interesting...;Got+next+trip+with+NextJS!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=60&lines=Every+day+discovers+something+interesting...;Web+Components%2C+what+are+you%3F)](https://git.io/typing-svg)
 
 ## My Skill Set
 
