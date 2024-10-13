@@ -63,6 +63,7 @@
 <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="50" /></a>
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png" alt="Cypress" height="50" /></a>
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Cypress" height="50" /></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://sak74.github.io/icons/storybook.svg" alt="Storybook" height="50" /></a>
 </div>
 
 ---
