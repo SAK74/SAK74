@@ -1,6 +1,6 @@
 ### <div align="center">Hi ! 👋 </div>
 
-### I'm Serhiy, a Junior Frontend Developer.
+### I'm Serhiy, a Junior Frontend/Fullstack Developer.
 
 - 🤩 passionate about coding
 
