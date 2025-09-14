@@ -40,7 +40,7 @@
 </div>  
 <div >  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="#"><img style="margin: 10px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-19.jpg" alt="REST_API" height="50" /></a>  
+<a href="#"><img style="margin: 10px" src="https://sak74.github.io/icons/restapi-icon.svg" alt="REST_API" height="50" width="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
@@ -61,7 +61,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="50" /></a>
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png" alt="Cypress" height="50" /></a>
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://sak74.github.io/icons/Cypress-Icon.svg" alt="Cypress" height="50" width="50" /></a>
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
 <a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://sak74.github.io/icons/storybook.svg" alt="Storybook" height="50" /></a>
 </div>
